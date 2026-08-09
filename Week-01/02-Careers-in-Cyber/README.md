@@ -39,7 +39,7 @@ The room also helped me understand that cybersecurity is not limited to penetrat
 
 The screenshot below shows my completed TryHackMe room:
 
-![Careers in Cyber — Completed](Careers-in-Cyber/careers-in-cyber-completed.png.PNG)
+![Careers in Cyber — Completed](screenshot/careers-in-cyber-completed.png)
 
 ## Status
 
