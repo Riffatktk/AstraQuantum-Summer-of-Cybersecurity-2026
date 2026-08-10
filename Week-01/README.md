@@ -19,11 +19,11 @@ The objectives of Week 1 are to:
 
 | # | Room | Status |
 |---|---|---|
-| 01 | Getting Started | ⏳ |
-| 02 | Careers in Cyber | ⏳ |
-| 03 | HTTP in Detail | ⏳ |
-| 04 | Linux Fundamentals Part 1 | ⏳ |
-| 05 | Windows Fundamentals Part 1 | ⏳ |
+| 01 | Getting Started | ✅ Completed |
+| 02 | Careers in Cyber | ✅ Completed |
+| 03 | HTTP in Detail | ✅ Completed |
+| 04 | Linux Fundamentals Part 1 | ✅ Completed |
+| 05 | Windows Fundamentals Part 1 | ✅ Completed |
 
 ## Documentation
 
